@@ -1,0 +1,31 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+**/.vs/
+.vscode/
+.idea/
+
+# JetBrains / Rider
+*.DotSettings.user
+
+# Автогенерируемые Unity файлы
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.opendb
+*.VC.db
+
+# Артефакты/пакеты
+*.apk
+*.aab
+*.unitypackage
